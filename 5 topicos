@@ -22,3 +22,31 @@ dados. dados são valores atribuídos a algo. Estes valores não precisam ser ne
 Informação. A informação é a ordenação e organização dos dados de forma a transmitir significado e compreensão dentro de um determinado contexto. https://www.google.com/search?q=inrforma%C3%A7%C3%A3o+defini%C3%A7%C3%A3o&rlz=1C1GCEU_pt-BRBR1122BR1123&oq=inrforma%C3%A7%C3%A3o+defini%C3%A7%C3%A3o+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgNGB4yCggCEAAYDRgPGB4yCAgDEAAYDRgeMgoIBBAAGAUYDRgeMgoIBRAAGAUYDRgeMgoIBhAAGAUYDRgeMgoIBxAAGAUYDRgeMgoICBAAGAUYDRgeMgoICRAAGAUYDRge0gEJNzQ0OGowajE1qAIIsAIB&sourceid=chrome&ie=UTF-8
 
 Nuvem. A definição de nuvem pode parecer obscura, mas, basicamente, é um termo utilizado para descrever uma rede global de servidores, cada um com uma função única. https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud/#:~:text=A%20defini%C3%A7%C3%A3o%20de%20nuvem%20pode,operam%20como%20um%20%C3%BAnico%20ecossistema.
+
+
+relação entre a LGPD  e os Datas Centers no Brasil:  Os Data Centers, também chamado de Centro de Processamento de Dados, estão incluídos nas adequações da Lei Geral de Proteção de Dados (LGPD), inclusive, por estarem no ramo de empresas que hospedam dados e aplicações corporativas
+https://www.google.com/search?q=qual+a+rela%C3%A7%C3%A3o+entre+a+LGPD+e+os+Data+Centers+no+Brasil&rlz=1C1GCEU_pt-BRBR1125&oq=qual+a+rela%C3%A7%C3%A3o+entre+a+LGPD+e+os+Data+Centers+no+Brasil&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBNIBCTc3NzI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+s formatos proprietários são, na verdade, controlados e definidos por interesses privados.
+
+Com o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
+
+A título de exemplo, o formato MP3 é proprietário mas também aberto porque, se bém patenteado, suas especificações são públicas. Tornar públicas as especificações técnicas é uma maneira de difundir o formato e torná-lo um padrão internacional.
+
+Qual a diferença entre formato proprietário aberto e opensource? Enquanto o formato opensource pode ser lido ou editado por qualquer aplicativo, o formato proprietárioo aberto pode ser alterado apenas com o programa proprietário.
+
+m formato aberto, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso.
+
+O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas: em outras palavras, garantir a interoperabilidade. Outro objetivo do formato aberto é incentivar a concorrência, ao invés de permitir que um único fabricante detenha o controle sobre um formato proprietário.
+
+exemplos abertos e exemplos fechados:
+abertos: RTF, PNG, HMTL, ODF, PPT, XLSX
+fexchados: DOC, PPT, XLS
+
+a divulgação dos dados publicos deveriam ser em formato de arquivo aberto. 
+alguns são divulgados como proprietariops para não expor. 
+em alguns casos pode se justificar o uso do proprietário se o programa for muito específico e não tiver um substituto .
+
+
+
+https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
