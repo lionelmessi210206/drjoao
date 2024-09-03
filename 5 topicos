@@ -47,6 +47,13 @@ a divulgação dos dados publicos deveriam ser em formato de arquivo aberto.
 alguns são divulgados como proprietariops para não expor. 
 em alguns casos pode se justificar o uso do proprietário se o programa for muito específico e não tiver um substituto .
 
-
-
 https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
+
+a LGPD impõe uma série de requisitos e responsabilidades tanto para os controladores quanto para os processadores de dados, incluindo data centers. Estes precisam adotar medidas rigorosas para proteger os dados pessoais e garantir a conformidade com a legislação, além de estarem preparados para lidar com possíveis incidentes de segurança e transferências internacionais de 
+
+Formatos de arquivos de dados proprietários abertos são aqueles que, embora possam ter sido desenvolvidos por empresas ou entidades privadas, são disponibilizados publicamente com especificações abertas para que outros possam implementá-los e trabalhar com eles sem restrições proprietárias. Esses formatos geralmente promovem interoperabilidade e acessibilidade. Aqui estão alguns exemplos:
+exemplos:  OpenDocument Format, Extensible Markup Language, JSON, Advanced Message Queuing Protocol ...
+
+enquanto os dados públicos oferecem oportunidades significativas para transparência, inovação e participação cidadã, também é essencial lidar com eles com cuidado para proteger a privacidade, a segurança e a integridade das informações. A gestão responsável e ética dos dados públicos é crucial para maximizar seus benefícios e minimizar possíveis impactos negativos.
+
+       
