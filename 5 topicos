@@ -56,4 +56,23 @@ exemplos:  OpenDocument Format, Extensible Markup Language, JSON, Advanced Messa
 
 enquanto os dados públicos oferecem oportunidades significativas para transparência, inovação e participação cidadã, também é essencial lidar com eles com cuidado para proteger a privacidade, a segurança e a integridade das informações. A gestão responsável e ética dos dados públicos é crucial para maximizar seus benefícios e minimizar possíveis impactos negativos.
 
+diferença entre as 3 linguagens de programação;
+
+1. Python
+Tipagem: Dinâmica
+Execução: Interpretada
+Sintaxe: Simples e legível
+Usos Comuns: Desenvolvimento web, análise de dados, automação
+2. Java
+Tipagem: Estática
+Execução: Compilada para bytecode (executada na JVM)
+Sintaxe: Orientada a objetos
+Usos Comuns: Aplicações empresariais, desenvolvimento Android
+3. C++
+Tipagem: Estática
+Execução: Compilada para código de máquina
+Sintaxe: Suporta orientação a objetos e programação procedural
+Usos Comuns: Desenvolvimento de sistemas, jogos, aplicações de alto desempenho
+Cada linguagem tem suas características específicas e é adequada para diferentes tipos de projetos e necessidades.
+
        
