@@ -75,4 +75,46 @@ Sintaxe: Suporta orientação a objetos e programação procedural
 Usos Comuns: Desenvolvimento de sistemas, jogos, aplicações de alto desempenho
 Cada linguagem tem suas características específicas e é adequada para diferentes tipos de projetos e necessidades.
 
+
+# Lista de números para verificar
+numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# Estrutura de repetição (loop) para percorrer a lista de números
+for numero in numeros:
+    # Estrutura de tomada de decisão (if-else) para verificar se o número é par ou ímpar
+    if numero % 2 == 0:
+        print(f"{numero} é par")
+    else:
+        print(f"{numero} é ímpar")
+
+Claro! Vou mostrar um exemplo simples em Python que utiliza tanto uma estrutura de repetição (`for`) quanto uma estrutura de tomada de decisão (`if`). Vamos criar um código que percorre uma lista de números e imprime se cada número é par ou ímpar.
+
+Aqui está o código:
+
+```python
+# Lista de números para verificar
+numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# Estrutura de repetição (loop) para percorrer a lista de números
+for numero in numeros:
+    # Estrutura de tomada de decisão (if-else) para verificar se o número é par ou ímpar
+    if numero % 2 == 0:
+        print(f"{numero} é par")
+    else:
+        print(f"{numero} é ímpar")
+```
+
+### Explicação:
+
+1. **Lista de Números**: Criamos uma lista chamada `numeros` que contém os números de 1 a 10.
+
+2. **Estrutura de Repetição (`for`)**: Utilizamos um loop `for` para iterar sobre cada número na lista `numeros`.
+
+3. **Estrutura de Tomada de Decisão (`if-else`)**: Dentro do loop, utilizamos uma estrutura de decisão `if-else` para verificar se o número é par ou ímpar:
+   - `numero % 2 == 0` verifica se o número é divisível por 2 (ou seja, se é par).
+   - Se a condição for verdadeira, o programa imprime que o número é par.
+   - Caso contrário, o programa imprime que o número é ímpar.
+
+Esse é um exemplo básico, mas ilustra bem como usar repetição e decisão em Python. Se precisar de algo mais complexo ou de um exemplo diferente, é só falar!
+
        
