@@ -1,0 +1,13 @@
+
+2. def imprimir_vogais(frase):
+    # Definindo as vogais
+    vogais = "aeiouAEIOU"
+    # Usando uma list comprehension para filtrar as vogais
+    resultado = [letra for letra in frase if letra in vogais]
+    # Juntando as vogais filtradas em uma string
+    return ''.join(resultado)
+
+frase = "A programação é divertida!"
+vogais = imprimir_vogais(frase)
+print("Vogais:", vogais)
+Vogais: Aoaiaieia
